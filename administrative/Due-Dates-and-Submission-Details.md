@@ -9,43 +9,44 @@ Below is a listing of all the due dates for the course.  If you are submitting a
 
 It is **your** responsibility to hand things in on time, and you will **not** be reminded of the due dates for work.  Please organize yourself appropriately.
 
-# Semester 1
+# Semester 2
 ## Sorted chronologically
-| Assignment/Concept                                                       |            Semester 1          |
-| -----------------------------------------------------------------------  | ------------------------------ |
-| &#x1F4D8; [Main Program](./Main-Program)                                 | Topic chosen by February 14    |
-| &#x1F4D9; [Air Systems](./Air-Systems)                                   | Assessment begins February 21  |
-| &#x1F4D8; [Documentation](./Documentation)                               | To be determined     |
-| &#x1F4D8; [Classes and Objects](./Objects)                               | To be determined     |
-| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | To be determined     |
-| &#x1F4D8; [Files](./Files)                                               | To be determined     |
-| &#x1F4D9; [Water Systems](./Water-Systems)                               | To be determined     |
-| &#x1F4D8; [Extending Objects](./Extending)                               | To be determined     |
-| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | To be determined     |
-| &#x1F4D8; [Sorting & Searching](./Sorting)                               | To be determined     |
-| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | To be determined     |
-| &#x1F4D9; [**Earth Systems**](./Earth-Systems)                           | To be determined     |
-| &#x1F4D8; [**Programming Culminating**](#)                               | To be determined     |
-
-## Sorted by OLG
-| Project Management Assignment                                            |            Semester 1          |
-| -----------------------------------------------------------------------  | ------------------------------ |
-| &#x1F4D9; [Air Systems](./Air-Systems)                                   | To be determined      |
-| &#x1F4D9; [Water Systems](./Water-Systems)                               | To be determined      |
-| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | To be determined      |
-| &#x1F4D9; [**Earth Systems**](./Earth-Systems)                           | To be determined      |
-
-| Programming Concepts                                                     |            Semester 1          |
+| Assignment/Concept                                                       |            Semester 2          |
 | -----------------------------------------------------------------------  | ------------------------------ |
 | &#x1F4D8; [Main Program](./Main-Program)                                 | Topic chosen by February 14    |
 | &#x1F4D8; [Documentation](./Documentation)                               | Assessment begins February 21  |
-| &#x1F4D8; [Classes and Objects](./Objects)                               | To be determined     |
-| &#x1F4D8; [Files](./Files)                                               | To be determined     |
-| &#x1F4D8; [Extending Objects](./Extending)                               | To be determined     |
-| &#x1F4D8; [Sorting & Searching](./Sorting)                               | To be determined     |
-| &#x1F4D8; [**Programming Culminating**](#)                               | To be determined     |
+| &#x1F4D9; [Air Systems](./Air-Systems)                                   | Occurs week of February 24     |
+| &#x1F4D7; [Emerging Technology](#)                   | Assessment begins March 2      |
+| &#x1F4D8; [Classes and Objects](#)                               | Assessment begins March 9     |
+| &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 23        |
+| &#x1F4D8; [Files](#)                                               | Assessment begins March 30     |
+| Midterm Cutoff              	| The assignments above this line will make it into midterm. <br/> Note: Files will not a second attempt before reports are due.  |
+| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | Occurs week of April 20        |
+| &#x1F4D8; [Extending Objects](#)                               | Assessment begins April 27     |
+| &#x1F4D7; [Theoretical Computer Science](#) | Assessment begins May 4        |
+| &#x1F4D8; [Sorting & Searching](#)                               | Assessment begins May 11       |
+| &#x1F4D8; [**Programming Culminating**](#)                               | Due June 5 @ 3:00PM     |
+| &#x1F4D9; [**Earth Systems**](#)                           | Occurs week of June 8          |
 
-| Digital Sage Assignment                                                  |            Semester 1          |
+## Sorted by OLG
+| Project Management Assignment                                            |            Semester 2          |
 | -----------------------------------------------------------------------  | ------------------------------ |
-| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | To be determined    |
-| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | To be determined    |
+| &#x1F4D9; [Air Systems](./Air-Systems)                                   | Occurs week of February 24     |
+| &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 23        |
+| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | Occurs week of April 20        |
+| &#x1F4D9; [**Earth Systems**](#)                           | Occurs week of June 8          |
+
+| Programming Concepts                                                     |            Semester 2          |
+| -----------------------------------------------------------------------  | ------------------------------ |
+| &#x1F4D8; [Main Program](./Main-Program)                                 | Topic chosen by February 14    |
+| &#x1F4D8; [Documentation](./Documentation)                               | Assessment begins February 21  |
+| &#x1F4D8; [Classes and Objects](#)                               | Assessment begins March 9     |
+| &#x1F4D8; [Files](#)                                               | Assessment begins March 30     |
+| &#x1F4D8; [Extending Objects](#)                               | Assessment begins April 27     |
+| &#x1F4D8; [Sorting & Searching](#)                               | Assessment begins May 11       |
+| &#x1F4D8; [**Programming Culminating**](#)                               | Due June 5 @ 3:00PM     |
+
+| Digital Sage Assignment                                                  |            Semester 2          |
+| -----------------------------------------------------------------------  | ------------------------------ |
+| &#x1F4D7; [Emerging Technology](#)                   | Assessment begins March 2      |
+| &#x1F4D7; [Theoretical Computer Science](#) | Assessment begins May 4        |
