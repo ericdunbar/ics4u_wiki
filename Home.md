@@ -17,7 +17,7 @@ If you believe you can show your understanding of certain materials in another m
 * [Air Systems](./Air-Systems)
 * [Water Systems](./Water-Systems)
 * [Fire Systems](./Fire-Systems)
-* [**Earth Systems**](#)
+* [**Earth Systems**](./Earth-Systems)
 
 #### &#x1F4D8; Programming Concepts
 * [Main Program](./Main-Program) 
@@ -26,7 +26,7 @@ If you believe you can show your understanding of certain materials in another m
 * [Files](#)
 * [Extending Objects](#)
 * [Sorting & Searching](#)
-* [**Programming Culminating**](#)
+* [**Programming Culminating**](./Programming-Culminating)
 
 #### &#x1F4D7; Digital Sage 
 * [Emerging Technology](./Emerging-Technology)
