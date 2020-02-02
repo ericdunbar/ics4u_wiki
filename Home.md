@@ -29,8 +29,8 @@ If you believe you can show your understanding of certain materials in another m
 * [**Programming Culminating**](#)
 
 #### &#x1F4D7; Digital Sage 
-* [Emerging Technology](#)
-* [Theoretical Computer Science](#)
+* [Emerging Technology](./Emerging-Technology)
+* [Theoretical Computer Science](./Theoretical-Computer-Science)
 
 ## Notes
 

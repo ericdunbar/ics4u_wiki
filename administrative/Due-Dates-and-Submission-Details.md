@@ -16,14 +16,14 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | &#x1F4D8; [Main Program](./Main-Program)                                 | Topic chosen by February 14    |
 | &#x1F4D8; [Documentation](./Documentation)                               | Assessment begins February 21  |
 | &#x1F4D9; [Air Systems](./Air-Systems)                                   | Occurs week of February 24     |
-| &#x1F4D7; [Emerging Technology](#)                   | Assessment begins March 2      |
+| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2      |
 | &#x1F4D8; [Classes and Objects](#)                               | Assessment begins March 9     |
 | &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 23        |
 | &#x1F4D8; [Files](#)                                               | Assessment begins March 30     |
 | Midterm Cutoff              	| The assignments above this line will make it into midterm. <br/> Note: Files will not a second attempt before reports are due.  |
 | &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | Occurs week of April 20        |
 | &#x1F4D8; [Extending Objects](#)                               | Assessment begins April 27     |
-| &#x1F4D7; [Theoretical Computer Science](#) | Assessment begins May 4        |
+| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | Assessment begins May 4        |
 | &#x1F4D8; [Sorting & Searching](#)                               | Assessment begins May 11       |
 | &#x1F4D8; [**Programming Culminating**](#)                               | Due June 5 @ 3:00PM     |
 | &#x1F4D9; [**Earth Systems**](#)                           | Occurs week of June 8          |
@@ -48,5 +48,5 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 
 | Digital Sage Assignment                                                  |            Semester 2          |
 | -----------------------------------------------------------------------  | ------------------------------ |
-| &#x1F4D7; [Emerging Technology](#)                   | Assessment begins March 2      |
-| &#x1F4D7; [Theoretical Computer Science](#) | Assessment begins May 4        |
+| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2      |
+| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | Assessment begins May 4        |
