@@ -46,6 +46,5 @@ All of the course notes can be found [here](https://github.com/mrseidel-classes/
 * Eclipse would be useful for **Java**
 * PyCharm or Python 3.7 GUI would be useful for **Python 3**
   * For anyone that needs to install packages yourself, you have two options:
-    * You can use [repl.it](https://repl.it) to complete your work.  If you need a GUI, you can use the [PySimpleGUIWeb](https://pysimplegui.readthedocs.io/cookbook/) package to get a GUI going.  If you do choose this and want to run the program offline (like any other native Windows application) you just have to remove the "Web" portion (i.e. ```PySimpleGUI```) from the package name, and ensure that ```PySimpleGUI``` is installed as a package you can use (more in the next point).
-      * **Important Note:** Not all options that are available in the ```PySimpleGUI``` will be available in the ```PySimpleGUIWeb```.
+    * You can use [repl.it](https://repl.it) to complete your work.  If you need a GUI, you can use the [PySimpleGUIWeb](https://pysimplegui.readthedocs.io/en/latest/cookbook/) package to get a GUI going.  For those previously using PySimpleGUIWeb, there has been an [update by the developer](https://github.com/johnfraserss/ICS4U/issues/21) noting that you can use PySimpleGUI on repl.it (assuming you start a TKinter project).
     * Otherwise, you can download [Thonny](https://thonny.org/) to install to a USB key.  
