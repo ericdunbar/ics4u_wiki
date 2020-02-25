@@ -14,7 +14,7 @@
 #### &#x1F4D8; Programming Concepts
 * [Main Program](./Main-Program) 
 * [Documentation](./Documentation)
-* [Classes and Objects](#)
+* [Classes and Objects](./Objects)
 * [Files](#)
 * [Extending Objects](#)
 * [Sorting & Searching](#)
