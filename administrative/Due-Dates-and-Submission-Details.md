@@ -18,9 +18,9 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | &#x1F4D9; [Air Systems](./Air-Systems)                                   | Occurs week of February 24     |
 | &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2      |
 | &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 9        |
-| &#x1F4D8; [Classes and Objects](#)                               | Assessment begins March 23     |
-| &#x1F4D8; [Files](#)                                               | Assessment begins March 30     |
-| Midterm Cutoff              	| The assignments above this line will make it into midterm. <br/> Note: Files will not have second attempt before reports are due.  |
+| &#x1F4D8; [Classes and Objects](#)                               | ~~Assessment begins March 23~~ <br/> Assessment begins the day that we return from the delay ([Ministry of Education](https://news.ontario.ca/opo/en/2020/3/title.html))     |
+| &#x1F4D8; [Files](#)                                               | ~~Assessment begins March 30~~ <br/> Delayed until further notice due to [Ministry of Education](https://news.ontario.ca/opo/en/2020/3/title.html)    |
+| Midterm Cutoff              	| ~~The assignments above this line will make it into midterm. <br/> Note: Files will not have second attempt before reports are due.~~  <br/> This will change due to [Ministry of Education](https://news.ontario.ca/opo/en/2020/3/title.html)  |
 | &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | Occurs week of April 20        |
 | &#x1F4D8; [Extending Objects](#)                               | Assessment begins April 27     |
 | &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | Assessment begins May 4        |
