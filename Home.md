@@ -27,14 +27,14 @@ If you believe you can show your understanding of certain materials in another m
 * [Main Program](./Main-Program) 
 * [Documentation](./Documentation)
 * [Classes and Objects](./Objects)
-* [Files](#)
-* [Extending Objects](#)
-* [Sorting & Searching](#)
+* [Files](#) - need updating
+* [Extending Objects](#) - need updating
+* [Sorting & Searching](#) - need updating
 * [**Programming Culminating**](./Programming-Culminating)
 
 #### &#x1F4D7; Digital Sage 
-* [Emerging Technology](./Emerging-Technology)
-* [Theoretical Computer Science](./Theoretical-Computer-Science)
+* [Emerging Technology](./Emerging-Technology) - need updating
+* [Theoretical Computer Science](./Theoretical-Computer-Science) - need updating
 
 ## Notes
 
