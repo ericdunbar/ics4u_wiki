@@ -1,15 +1,25 @@
 # Welcome to the ICS4U Course Page!
 
+## **UPDATES (last updated March 31, 2020)**
+**March 31:**  
+* The course material will update slightly due to the changed nature of how the course is being delivered.  
+  * All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.  
+* The Project Management portion of the course might have drastic changes - these will **not** be updated by April 6th.
+* Updated due dates for:
+  * _Classes and Objects_
+  * _Files_
+  * _Sorting & Searching_
+  * _Emerging Technology_
+  * _Theoretical Computer Science_
+  * _Extending Objects_
+  * _Fire Systems_
+
 ## Course information
 
 * [Course Outline](./Course-Overview)
 * [Overarching Learning Goals](./images/ICS4U.jpg)
 * [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
 * [Mr. Seidel's ICS4U Introduction Survey](https://forms.gle/D4zwJLQ8Kb7aauHj7) - requires your school Google account.
-
-## **UPDATES (last updated March 31, 2020)**
-**March 31:**  
-The course material will update slightly due to the changed nature of how the course is being delivered.  All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.  The Project Management portion of the course might have drastic changes - these will not be updated by April 6th.
 
 ## Assignments
 
@@ -27,14 +37,14 @@ If you believe you can show your understanding of certain materials in another m
 * [Main Program](./Main-Program) 
 * [Documentation](./Documentation)
 * [Classes and Objects](./Objects)
-* [Files](#) - need updating
-* [Extending Objects](#) - need updating
-* [Sorting & Searching](#) - need updating
+* [Files](#) - needs updating
+* [Extending Objects](#) - needs updating
+* [Sorting & Searching](#) - needs updating
 * [**Programming Culminating**](./Programming-Culminating)
 
 #### &#x1F4D7; Digital Sage 
-* [Emerging Technology](./Emerging-Technology) - need updating
-* [Theoretical Computer Science](./Theoretical-Computer-Science) - need updating
+* [Emerging Technology](./Emerging-Technology) - needs updating
+* [Theoretical Computer Science](./Theoretical-Computer-Science) - needs updating
 
 ## Notes
 
