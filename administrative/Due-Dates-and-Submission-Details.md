@@ -16,15 +16,14 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | &#x1F4D8; [Main Program](./Main-Program)                                 | Topic chosen by February 14    |
 | &#x1F4D8; [Documentation](./Documentation)                               | Assessment begins February 21  |
 | &#x1F4D9; [Air Systems](./Air-Systems)                                   | Occurs week of February 24     |
-| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2      |
-| &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 9        |
-| &#x1F4D8; [Classes and Objects](#)                               | ~~Assessment begins March 23~~ <br/> Assessment begins the day that we return from the delay ([Ministry of Education](https://news.ontario.ca/opo/en/2020/3/title.html))     |
-| &#x1F4D8; [Files](#)                                               | ~~Assessment begins March 30~~ <br/> Delayed until further notice due to [Ministry of Education](https://news.ontario.ca/opo/en/2020/3/title.html)    |
-| Midterm Cutoff              	| ~~The assignments above this line will make it into midterm. <br/> Note: Files will not have second attempt before reports are due.~~  <br/> This will change due to [Ministry of Education](https://news.ontario.ca/opo/en/2020/3/title.html)  |
-| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | Occurs week of April 20        |
-| &#x1F4D8; [Extending Objects](#)                               | Assessment begins April 27     |
-| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | Assessment begins May 4        |
-| &#x1F4D8; [Sorting & Searching](#)                               | Assessment begins May 11       |
+| &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 9         |
+| &#x1F4D8; [Classes and Objects](./Objects)                               | **Due by April 7**             |
+| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2 <br/> **Due by April 9**      |
+| &#x1F4D8; [Files](#)                                                     | **Due by April 20**            |
+| &#x1F4D8; [Sorting & Searching](#)                                       | **Due by April 29**            |
+| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | **Due by May 4**               |
+| &#x1F4D8; [Extending Objects](#)                                         | **Due by May 15**              |
+| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | **Occurs week of May 18**      |
 | &#x1F4D8; [**Programming Culminating**](./Programming-Culminating)       | Due June 5 @ 3:00PM            |
 | &#x1F4D9; [**Earth Systems**](./Earth-Systems)                           | Occurs week of June 8          |
 
@@ -33,20 +32,20 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | -----------------------------------------------------------------------  | ------------------------------ |
 | &#x1F4D9; [Air Systems](./Air-Systems)                                   | Occurs week of February 24     |
 | &#x1F4D9; [Water Systems](./Water-Systems)                               | Occurs week of March 9        |
-| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | Occurs week of April 20        |
+| &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | **Occurs week of May 18**      |
 | &#x1F4D9; [**Earth Systems**](./Earth-Systems)                           | Occurs week of June 8          |
 
 | Programming Concepts                                                     |            Semester 2          |
 | -----------------------------------------------------------------------  | ------------------------------ |
 | &#x1F4D8; [Main Program](./Main-Program)                                 | Topic chosen by February 14    |
 | &#x1F4D8; [Documentation](./Documentation)                               | Assessment begins February 21  |
-| &#x1F4D8; [Classes and Objects](#)                               | Assessment begins March 23     |
-| &#x1F4D8; [Files](#)                                               | Assessment begins March 30     |
-| &#x1F4D8; [Extending Objects](#)                               | Assessment begins April 27     |
-| &#x1F4D8; [Sorting & Searching](#)                               | Assessment begins May 11       |
+| &#x1F4D8; [Classes and Objects](./Objects)                               | **Due by April 7**             |
+| &#x1F4D8; [Files](#)                                                     | **Due by April 20**            |
+| &#x1F4D8; [Sorting & Searching](#)                                       | **Due by April 29**            |
+| &#x1F4D8; [Extending Objects](#)                                         | **Due by May 15**              |
 | &#x1F4D8; [**Programming Culminating**](./Programming-Culminating)       | Due June 5 @ 3:00PM            |
 
 | Digital Sage Assignment                                                  |            Semester 2          |
 | -----------------------------------------------------------------------  | ------------------------------ |
-| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2      |
-| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | Assessment begins May 4        |
+| &#x1F4D7; [Emerging Technology](./Emerging-Technology)                   | Assessment begins March 2 <br/> **Due by April 9**      |
+| &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | **Due by May 4**               |
