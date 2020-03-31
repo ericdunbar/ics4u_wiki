@@ -1,3 +1,6 @@
+## **UPDATES**
+Keep an eye on the [main page](./Home) of this Wiki for course updates.
+
 ## Course information
 * [Course Outline](./Course-Overview)
 * [Overarching Learning Goals](./images/ICS4U.jpg)
