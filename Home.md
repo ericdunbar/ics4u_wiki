@@ -7,6 +7,10 @@
 * [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
 * [Mr. Seidel's ICS4U Introduction Survey](https://forms.gle/D4zwJLQ8Kb7aauHj7) - requires your school Google account.
 
+## **UPDATES (last updated March 31, 2020)**
+**March 31:**  
+The course material will update slightly due to the changed nature of how the course is being delivered.  All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.  The Project Management portion of the course might have drastic changes - these will not be updated by April 6th.
+
 ## Assignments
 
 This section will contain links to all of the course assignments.  They are grouped by Overarching Learning Goal (OLG).  Be aware that within each OLG, the material is in a suggested chronological order for completing the work to ease your understanding of the materials.  
