@@ -1,6 +1,11 @@
 # Welcome to the ICS4U Course Page!
 
-## **UPDATES (last updated March 31, 2020)**
+## **UPDATES (last updated April 1, 2020)**
+**April 1:**
+* Email sent to all students - check your @pdsb.net emails.
+* Updated due date timing to be 11:59PM on the dates previously updated on March 31.  See due dates page for clarification.
+* Added the updated _Files_ and _Sorting & Searching_ assignments to the site.
+ 
 **March 31:**  
 * The course material will update slightly due to the changed nature of how the course is being delivered.  
   * All updates should be completed by Monday, April 6th, 2020 in preparation for the course to continue.  
@@ -37,9 +42,9 @@ If you believe you can show your understanding of certain materials in another m
 * [Main Program](./Main-Program) 
 * [Documentation](./Documentation)
 * [Classes and Objects](./Objects)
-* [Files](#) - needs updating
+* [Files](./Files)
 * [Extending Objects](#) - needs updating
-* [Sorting & Searching](#) - needs updating
+* [Sorting & Searching](./Sorting-and-Searching)
 * [**Programming Culminating**](./Programming-Culminating)
 
 #### &#x1F4D7; Digital Sage 

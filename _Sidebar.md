@@ -18,9 +18,9 @@ Keep an eye on the [main page](./Home) of this Wiki for course updates.
 * [Main Program](./Main-Program) 
 * [Documentation](./Documentation)
 * [Classes and Objects](./Objects)
-* [Files](#)
+* [Files](./Files)
 * [Extending Objects](#)
-* [Sorting & Searching](#)
+* [Sorting & Searching](./Sorting-and-Searching)
 * [**Programming Culminating**](./Programming-Culminating)
 
 #### &#x1F4D7; Digital Sage 
