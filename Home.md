@@ -66,5 +66,5 @@ All of the course notes can be found [here](https://github.com/mrseidel-classes/
 ## Licensing and Notices
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 All of the written work contained herein falls under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, unless otherwise explicitly noted (there are a few pages that contain works that do _**not**_ fall under this license.  They will be noted at the bottom of their respective pages).<br/><br/>
-<a href="https://github.com/mrseidel-classes/ICS3U/blob/master/LICENSE.md" rel="license"><img src="./images/mit.png" /></a><br/>
-All code found within the site falls under the [MIT License](https://github.com/mrseidel-classes/ICS3U/blob/master/LICENSE.md)<br/><br/>
+<a href="https://github.com/mrseidel-classes/ICS4U/blob/master/LICENSE.md" rel="license"><img src="./images/mit.png" /></a><br/>
+All code found within the site falls under the [MIT License](https://github.com/mrseidel-classes/ICS4U/blob/master/LICENSE.md)<br/><br/>
