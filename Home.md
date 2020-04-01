@@ -62,3 +62,9 @@ All of the course notes can be found [here](https://github.com/mrseidel-classes/
   * For anyone that needs to install packages yourself, you have two options:
     * You can use [repl.it](https://repl.it) to complete your work.  If you need a GUI, you can use the [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/cookbook/) package to get a GUI going.  _For those previously using PySimpleGUIWeb, there has been an [update by the developer](https://github.com/johnfraserss/ICS4U/issues/21) noting that you can use PySimpleGUI on repl.it (assuming you start a TKinter project)._
     * Otherwise, you can download [Thonny](https://thonny.org/) to install to a USB key.  
+
+## Licensing and Notices
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
+All of the written work contained herein falls under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, unless otherwise explicitly noted (there are a few pages that contain works that do _**not**_ fall under this license.  They will be noted at the bottom of their respective pages).<br/><br/>
+<a href="https://github.com/mrseidel-classes/ICS4U/blob/master/LICENSE.md" rel="license"><img src="./images/mit.png" /></a><br/>
+All code found within the site falls under the [MIT License](https://github.com/mrseidel-classes/ICS4U/blob/master/LICENSE.md)<br/><br/>
