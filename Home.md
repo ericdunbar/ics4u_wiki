@@ -5,6 +5,7 @@
 * Email sent to all students - check your @pdsb.net emails.
 * Updated due date timing to be 11:59PM on the dates previously updated on March 31.  See due dates page for clarification.
 * Added the updated _Files_ and _Sorting & Searching_ assignments to the site.
+* Updated UML Notes pictures to more accurately depict UML specifications.
  
 **March 31:**  
 * The course material will update slightly due to the changed nature of how the course is being delivered.  
