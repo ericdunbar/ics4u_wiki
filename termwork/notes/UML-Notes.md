@@ -38,10 +38,19 @@ You will notice most UML diagrams include a ```+``` or ```-``` symbols before a 
 ### Relationships
 In a larger environment, there will be many class diagrams all inter-related in some fashion. This is where a relationship diagram involving the various class diagrams comes in handy.
 
-In the example below, there are two types of arrows showing the relationship between the classes. The solid-lined arrow shows a "HAS-A" relationship (a chair **has a** color).
+In the example below, there are two types of connection symbols showing the relationship between the classes. The line with a solid-diamond at one end and a number at the other denotes a **Composition**.  A composition line means that the class numerical end has a dependence on the solid-diamond end.  The word(s) in between are used to describe how the two classes are connected.  For example, if a ```Chair``` doesn't exist, then the vehicle cannot have a ```Color```.  This is also known as a "HAS-A" relationship (a chair **has a** color).
 
 ![Alt text](./images/uml_class_diagram.PNG)
 
+### Composition Numbering Rules (i.e. Multiplicity)
+There are only certain numbers that can exist at the end of a composition line.  The most common ones are in the table below:
+
+| Number | Meaning |
+| ------ | ------- |
+| 0..1   | No instances, or one instance |
+| 1      | Exactly one instance          |
+| 0..    | Zero or more instances        |
+| 1..*   | One or more instances         | 
 
 ## Inheritance
 In an inheritance-based environment, your diagrams and relationships will have some slightly different features.
@@ -49,7 +58,7 @@ In an inheritance-based environment, your diagrams and relationships will have s
 For example, in the detailed diagram below, you will notice a new symbol (the ```#``` symbol) in front of either variables or methods within the classes.  This symbol means that the variable or method is ```protected```.  A ```protected``` variable or method is like having a **private-to-the-class-chain** variable/method.  For example, any of the children (or sub) classes can see the variable/method, but nothing outside of the familial relationship can see them.
 
 ### Relationships
-In a larger environment, there will be many class diagrams all inter-related in some fashion.  In the below example, you will notice a new arrow (the dashed line) which show an **"IS A"** relationship (a car **is a** vehicle).
+In a larger environment, there will be many class diagrams all inter-related in some fashion.  In the below example, you will notice a new arrow (solid line with an open triangle) which show an **"IS A"** relationship (a car **is a** vehicle).
 
 ![Alt text](./images/uml_class_diagram_inheritance.png)
 
