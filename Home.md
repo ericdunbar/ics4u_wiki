@@ -1,6 +1,15 @@
 # Welcome to the ICS4U Course Page!
 
-## **UPDATES (last updated April 1, 2020)**
+## **UPDATES (last updated April 3, 2020)**
+**April 3:**
+* Email sent to all students - check your @pdsb.net emails.
+* Updated _Sorting & Searching_ assignment to include tutorials and visualizations.
+* Added the _Extending Objects_ assignment, including tutorials and examples (where found/applicable).
+* Updated _Emerging Technology_ submission method.
+* Updated _Files_ to include the word "**NEW:**" where there is new informaiton regarding submission details
+* Created [_Extending Objects Notes_](./Extending-Objects-Notes) page rather than having it mixed in with the code section of the repository.
+* Removed _Extending Objects (Short Notes)_ from the code/examples/extending-objects page
+
 **April 1:**
 * Email sent to all students - check your @pdsb.net emails.
 * Updated due date timing to be 11:59PM on the dates previously updated on March 31.  See due dates page for clarification.
@@ -44,12 +53,12 @@ If you believe you can show your understanding of certain materials in another m
 * [Documentation](./Documentation)
 * [Classes and Objects](./Objects)
 * [Files](./Files)
-* [Extending Objects](#) - needs updating
+* [Extending Objects](./Extending-Objects)
 * [Sorting & Searching](./Sorting-and-Searching)
 * [**Programming Culminating**](./Programming-Culminating)
 
 #### &#x1F4D7; Digital Sage 
-* [Emerging Technology](./Emerging-Technology) - needs updating
+* [Emerging Technology](./Emerging-Technology)
 * [Theoretical Computer Science](./Theoretical-Computer-Science) - needs updating
 
 ## Notes

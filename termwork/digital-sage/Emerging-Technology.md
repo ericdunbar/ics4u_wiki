@@ -37,6 +37,16 @@ _Note_: There will be a limit on topic selection so that there is at **most** 2 
 
 Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.
 
+**NEW:** Submission for this assignment has changed as per below
+  
+* Using your @pdsb.net account: 
+  * Create a Google Slides (or other online option) presentation. 
+  * Create an audio recording for each of the slides.
+  * For each slide, attach the audio recording (Insert -> Audio)
+  * Share the Google Slideshow with me so that I can access and assess it.
+
+If you have already presented to me, your "fixes" are due in the same method as above by the due date given on the [due dates](./Due-Dates-and-Submission-Details) page. 
+
 ## Learning Goals and Success Criteria
 
 The [Overarching Learning Goal(s)](./images/ICS4U.jpg) for this include _Digital Sage_.  

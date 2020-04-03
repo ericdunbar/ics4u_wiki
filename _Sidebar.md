@@ -19,7 +19,7 @@ Keep an eye on the [main page](./Home) of this Wiki for course updates.
 * [Documentation](./Documentation)
 * [Classes and Objects](./Objects)
 * [Files](./Files)
-* [Extending Objects](#)
+* [Extending Objects](./Extending-Objects)
 * [Sorting & Searching](./Sorting-and-Searching)
 * [**Programming Culminating**](./Programming-Culminating)
 

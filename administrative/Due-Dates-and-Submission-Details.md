@@ -22,7 +22,7 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | &#x1F4D8; [Files](./Files)                                               | **Due by April 20 @ 11:59PM**  |
 | &#x1F4D8; [Sorting & Searching](./Sorting-and-Searching)                 | **Due by April 29 @ 11:59PM**  |
 | &#x1F4D7; [Theoretical Computer Science](./Theoretical-Computer-Science) | **Due by May 4 @ 11:59PM**     |
-| &#x1F4D8; [Extending Objects](#)                                         | **Due by May 15 @ 11:59PM**    |
+| &#x1F4D8; [Extending Objects](./Extending-Objects)                       | **Due by May 15 @ 11:59PM**    |
 | &#x1F4D9; [Fire Systems](./Fire-Systems)                                 | **Occurs week of May 18**      |
 | &#x1F4D8; [**Programming Culminating**](./Programming-Culminating)       | Due June 5 @ 3:00PM            |
 | &#x1F4D9; [**Earth Systems**](./Earth-Systems)                           | Occurs week of June 8          |
@@ -42,7 +42,7 @@ It is **your** responsibility to hand things in on time, and you will **not** be
 | &#x1F4D8; [Classes and Objects](./Objects)                               | **Due by April 7 @ 11:59PM**   |
 | &#x1F4D8; [Files](./Files)                                               | **Due by April 20 @ 11:59PM**  |
 | &#x1F4D8; [Sorting & Searching](./Sorting-and-Searching)                 | **Due by April 29 @ 11:59PM**  |
-| &#x1F4D8; [Extending Objects](#)                                         | **Due by May 15 @ 11:59PM**    |
+| &#x1F4D8; [Extending Objects](./Extending-Objects)                       | **Due by May 15 @ 11:59PM**    |
 | &#x1F4D8; [**Programming Culminating**](./Programming-Culminating)       | Due June 5 @ 3:00PM            |
 
 | Digital Sage Assignment                                                  |            Semester 2          |

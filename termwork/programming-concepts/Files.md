@@ -1,7 +1,8 @@
 ## Task(s)
 
 Continuing on your [Main Program](./Main-Program) voyage, it is your task to:
-* Research and learn more about implementing file input/output into your program.  There are some examples [here](https://github.com/mrseidel-classes/ICS4U/tree/master/examples/files) to get you started.
+* Research and learn more about implementing file input/output into your program.  
+  * There are some examples [here](https://github.com/mrseidel-classes/ICS4U/tree/master/examples/files) to get you started.
 * Implement input/output into your program by using:
   * A plain text file (easiest option), and/or,
   * A binary file, and/or,
@@ -16,7 +17,7 @@ Continuing on your [Main Program](./Main-Program) voyage, it is your task to:
 
 Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.
 
-You can submit this via the IN drive, or via email.
+**NEW:** You can submit this via the IN drive, or via email.
 
 ## Learning Goals and Success Criteria
 
@@ -30,3 +31,4 @@ The specific Learning Goal(s) for this include:
 | &#x1F4D8;&#x1F4D8;&#x1F4D8; | I can explain the limitations of finite data representations (int, float, double, string, etc.). | |
 | &#x1F4D8;&#x1F4D8;&#x1F4D8; | I can use one-dimensional arrays of compound data types (i.e. objects, structures, etc.). | |
 | &#x1F4D8;&#x1F4D8;&#x1F4D8; | I can read from, and write to, an external file (i.e. database, API, text file, binary file, etc.). | |
+
