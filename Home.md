@@ -1,6 +1,9 @@
 # Welcome to the ICS4U Course Page!
 
-## **UPDATES (last updated April 3, 2020)**
+## **UPDATES (last updated April 5, 2020)**
+**April 5:**
+* Updated _Theoretical Computer Science_ to include the topic selection, and submission method. 
+
 **April 3:**
 * Email sent to all students - check your @pdsb.net emails.
 * Updated _Sorting & Searching_ assignment to include tutorials and visualizations.
@@ -45,8 +48,8 @@ If you believe you can show your understanding of certain materials in another m
 #### &#x1F4D9; Project Management
 * [Air Systems](./Air-Systems)
 * [Water Systems](./Water-Systems)
-* [Fire Systems](./Fire-Systems)
-* [**Earth Systems**](./Earth-Systems)
+* [Fire Systems](./Fire-Systems) - needs updating
+* [**Earth Systems**](./Earth-Systems) - needs updating
 
 #### &#x1F4D8; Programming Concepts
 * [Main Program](./Main-Program) 
@@ -59,7 +62,7 @@ If you believe you can show your understanding of certain materials in another m
 
 #### &#x1F4D7; Digital Sage 
 * [Emerging Technology](./Emerging-Technology)
-* [Theoretical Computer Science](./Theoretical-Computer-Science) - needs updating
+* [Theoretical Computer Science](./Theoretical-Computer-Science)
 
 ## Notes
 

@@ -15,6 +15,9 @@ Be prepared to discuss your work and present-to-the-teacher the information that
 
 ### Theoretical Computer Science options
 _Note_: There will be a limit on topic selection so that there is at **most** 3 presentations per topic.  A topic selection sheet will be available at least 2 weeks prior to the start of presentations.
+
+**NEW:** Based on the new distance learning model, the topics have been randomly assigned to you instead.  Please see the listing below for your topic.
+
   * Attribute Grammar
   * Automata Theory
   * Complexity Theory
@@ -26,9 +29,35 @@ _Note_: There will be a limit on topic selection so that there is at **most** 3 
   * Lattices and Basis Reduction
   * Symbolic Computation
 
+
+| AM Students (individual work)  | PM Students (individual work) | Topic |
+| -----------------------------  | ----------------------------  | ----- |
+| 765827, 593400                 | 661254, 933580, 815355        | Computational Biology |
+| 854302, 669571                 | 868036, 775797, 693152        | Lattices and Basis Reduction |
+| 741182, 590128                 | 768124, 616675, 629466        | Computational Number Theory |
+| 589658, 744646                 | 873670, 691453, 927351        | Attribute Grammar |
+| 764670, 631605                 | 845275, 595598                | Complexity Theory |
+| 591611, 766789                 | 642666, 627541                | Symbolic Computation |
+| 881983, 595832                 | 639388, 607058                | Automata Theory |
+| 624583, 795799                 | 607656, 592827                | Computability Theory |
+| 670711, 623540                 | 644085, 614942                | Concurrency Theory |
+| 622225, 928094                 | 726806, 772319                | Computational Geometry |
+
+
+
 ## Due Dates and Submission Details
 
 Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.
+
+**NEW:** Submission for this assignment has changed as per below (choose one)
+
+* Using your @pdsb.net account:
+  * Create a Google Slides (or other online option) presentation. 
+  * Create an audio recording for each of the slides.
+  * For each slide, attach the audio recording (Insert -> Audio)
+  * Share the Google Slideshow with me so that I can access and assess it.
+* Or, you can do something similar with a PowerPoint presentation and add Audio clips to that as well and submit through email.
+
 ## Learning Goals and Success Criteria
 
 The [Overarching Learning Goal(s)](./images/ICS4U.jpg) for this include _Digital Sage_.  
