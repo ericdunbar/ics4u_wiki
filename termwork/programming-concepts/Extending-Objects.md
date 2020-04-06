@@ -1,7 +1,8 @@
 ## Task(s)
 
 Continuing on your [Main Program](./Main-Program) voyage, it is your task to:
-* Research and learn more about extending objects.  
+* Research and learn more about extending objects.
+  * Notes [here](./Extending-Objects-Notes)  
   * Examples [here][Ex].
   * You can also check the following YouTube videos as a start
     * Inheritance: [Java][1], [JavaScript][2], [Python][3]
