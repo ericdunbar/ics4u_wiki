@@ -1,6 +1,10 @@
 # Welcome to the ICS4U Course Page!
 
-## **UPDATES (last updated April 5, 2020)**
+## **UPDATES (last updated April 8, 2020)**
+**April 8:**
+* Email sent to all students - check your @pdsb.net emails.
+* Feedback Forms updated with [Water Systems](./Water-Systems) assessment information.
+
 **April 5:**
 * Updated _Theoretical Computer Science_ to include the topic selection, and submission method. 
 
