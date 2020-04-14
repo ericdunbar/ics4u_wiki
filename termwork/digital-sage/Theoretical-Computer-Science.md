@@ -30,7 +30,7 @@ _Note_: There will be a limit on topic selection so that there is at **most** 3 
   * Symbolic Computation
 
 
-| AM Students (individual work)  | PM Students (individual work) | Topic |
+| AM Students <br/>(individual work)  | PM Students <br/>(individual work) | Topic |
 | -----------------------------  | ----------------------------  | ----- |
 | 765827, 593400                 | 661254, 933580, 815355        | Computational Biology |
 | 854302, 669571                 | 868036, 775797, 693152        | Lattices and Basis Reduction |
