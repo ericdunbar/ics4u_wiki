@@ -1,6 +1,11 @@
 # Welcome to the ICS4U Course Page!
 
-## **UPDATES (last updated April 8, 2020)**
+## **UPDATES (last updated April 14, 2020)**
+**April 14:**
+* Email sent to all students - check your @pdsb.net emails.
+* Feedback Forms have been constantly updated regarding [Classes and Objects](./Objects) and [Emerging Technology](./Emerging-Technology).  These will continue to be updated throughout the week as I get through the remainder of the submitted work.
+* Anyone who submitted a Google Slides file for [Emerging Technology](./Emerging-Technology) might not have shared your audio files.  If you did not, I have sent you an email at your @pdsb.net account to share these files.
+
 **April 8:**
 * Email sent to all students - check your @pdsb.net emails.
 * Feedback Forms updated with [Water Systems](./Water-Systems) assessment information.
@@ -13,7 +18,7 @@
 * Updated _Sorting & Searching_ assignment to include tutorials and visualizations.
 * Added the _Extending Objects_ assignment, including tutorials and examples (where found/applicable).
 * Updated _Emerging Technology_ submission method.
-* Updated _Files_ to include the word "**NEW:**" where there is new informaiton regarding submission details
+* Updated _Files_ to include the word "**NEW:**" where there is new information regarding submission details
 * Created [_Extending Objects Notes_](./Extending-Objects-Notes) page rather than having it mixed in with the code section of the repository.
 * Removed _Extending Objects (Short Notes)_ from the code/examples/extending-objects page
 
