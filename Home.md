@@ -1,14 +1,24 @@
 # Welcome to the ICS4U Course Page!
 
-## **UPDATES (last updated April 14, 2020)**
+## **UPDATES (last updated April 20, 2020)**
+**April 20:**
+* Email sent to all students - check your @pdsb.net emails.
+* Feedback Forms continue to be updated daily based on who has been assessed.  I am working through the remainder of the [_Classes and Objects_](./Objects) and [_Emerging Technology_](./Emerging-Technology) work.
+* Due dates for the remainder of the course have changed to spread out the workload (this is assuming distance learning continues until the end of May):
+  *  [_Sorting & Searching_](./Sorting-and-Searching) - changed from ~~April 29~~ to **May 1**
+  *  [_Theoretical Computer Science_](./Theoretical-Computer-Science) changed from ~~May 4~~ to **May 8**
+  *  [_Extending Objects_](./Extending-Objects) changed from ~~May 15~~ to **May 22**
+  *  [_Fire Systems_](./Fire-Systems) changed from occurring the week of ~~May 18~~ to the **week of May 25**.  _The format for this is still being decided on, but it will (most likely) not look anything like what we were doing in class._
+  *  We are currently awaiting direction regarding culminating tasks at this point, but the dates for _Earth Systems_ and _Programming Culminating_ are still as they originally were.  Any changes to this will be noted here and sent in an email.
+
 **April 14:**
 * Email sent to all students - check your @pdsb.net emails.
-* Feedback Forms have been constantly updated regarding [Classes and Objects](./Objects) and [Emerging Technology](./Emerging-Technology).  These will continue to be updated throughout the week as I get through the remainder of the submitted work.
-* Anyone who submitted a Google Slides file for [Emerging Technology](./Emerging-Technology) might not have shared your audio files.  If you did not, I have sent you an email at your @pdsb.net account to share these files.
+* Feedback Forms have been constantly updated regarding [_Classes and Objects_](./Objects) and [_Emerging Technology_](./Emerging-Technology).  These will continue to be updated throughout the week as I get through the remainder of the submitted work.
+* Anyone who submitted a Google Slides file for [_Emerging Technology_](./Emerging-Technology) might not have shared your audio files.  If you did not, I have sent you an email at your @pdsb.net account to share these files.
 
 **April 8:**
 * Email sent to all students - check your @pdsb.net emails.
-* Feedback Forms updated with [Water Systems](./Water-Systems) assessment information.
+* Feedback Forms updated with [_Water Systems_](./Water-Systems) assessment information.
 
 **April 5:**
 * Updated _Theoretical Computer Science_ to include the topic selection, and submission method. 
